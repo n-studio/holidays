@@ -7,4 +7,3 @@ Gemfile.lock
 .bundle
 reports/
 coverage/
-.byebug_history
