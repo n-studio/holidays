@@ -1,4 +1,3 @@
 [submodule "definitions"]
 	path = definitions
-	url = git@github.com:n-studio/definitions.git
-	branch = hk
+	url = https://github.com/holidays/definitions
